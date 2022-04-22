@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSTransparent (1)" GUID="{076d526a-8d42-499e-94d7-28a67f67089b}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VSTransparent (2)" GUID="{3e3266d1-0da7-400c-b4ee-8d9cc9cfa181}" BaseGUID="{076d526a-8d42-499e-94d7-28a67f67089b}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF222224" />
